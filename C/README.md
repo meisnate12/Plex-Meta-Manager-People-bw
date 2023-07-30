@@ -115,7 +115,7 @@
 * [Cathy Yan](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-bw/master/C/Images/Cathy%20Yan.jpg)
 * [Catriona MacColl](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-bw/master/C/Images/Catriona%20MacColl.jpg)
 * [Cec Linder](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-bw/master/C/Images/Cec%20Linder.jpg)
-* [Cecil B. Demille](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-bw/master/C/Images/Cecil%20B.%20Demille.jpg)
+* [Cecil B. DeMille](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-bw/master/C/Images/Cecil%20B.%20DeMille.jpg)
 * [Cedric the Entertainer](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-bw/master/C/Images/Cedric%20the%20Entertainer.jpg)
 * [Celeste O'Connor](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-bw/master/C/Images/Celeste%20O%27Connor.jpg)
 * [Celia Imrie](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-bw/master/C/Images/Celia%20Imrie.jpg)

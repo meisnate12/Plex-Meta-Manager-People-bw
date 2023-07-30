@@ -47,7 +47,7 @@
 * [Dan John Miller](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-bw/master/D/Images/Dan%20John%20Miller.jpg)
 * [Dan Lin](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-bw/master/D/Images/Dan%20Lin.jpg)
 * [Dan Mazer](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-bw/master/D/Images/Dan%20Mazer.jpg)
-* [Dan O'bannon](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-bw/master/D/Images/Dan%20O%27bannon.jpg)
+* [Dan O'Bannon](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-bw/master/D/Images/Dan%20O%27Bannon.jpg)
 * [Dan Scanlon](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-bw/master/D/Images/Dan%20Scanlon.jpg)
 * [Dan Soder](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-bw/master/D/Images/Dan%20Soder.jpg)
 * [Dan Stevens](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-bw/master/D/Images/Dan%20Stevens.jpg)

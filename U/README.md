@@ -1,4 +1,5 @@
 # Plex Meta Manager People - Black & White (bw) - U (15 Images)
+![Grid](grid.jpg)
 
 * [!_Images_grid](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-bw/master/U/Images/%21_Images_grid.jpg)
 * [Uday Krishna](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-bw/master/U/Images/Uday%20Krishna.jpg)

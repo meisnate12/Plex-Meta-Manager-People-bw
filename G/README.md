@@ -1,4 +1,5 @@
 # Plex Meta Manager People - Black & White (bw) - G (296 Images)
+![Grid](grid.jpg)
 
 * [!_Images_grid](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-bw/master/G/Images/%21_Images_grid.jpg)
 * [G-Eazy](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-bw/master/G/Images/G-Eazy.jpg)
